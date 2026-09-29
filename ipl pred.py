@@ -69,3 +69,4 @@ print("2. Players with highest strike rates analyzed.")
 print("3. Best average players identified.")
 print("4. Power hitters (4s & 6s) analyzed.")
 print("5. Team performance evaluated based on total runs.")
+

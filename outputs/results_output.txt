@@ -1,0 +1,44 @@
+Dataset Preview:
+          Player Name Team  Runs  Matches  Inn  No  ...   BF      SR  100s  50s  4s  6s
+0      Sai Sudharsan   GT   759       15   15   1  ...  486  156.17     1    6  88  21
+1  Surya Kumar Yadav   MI   717       16   16   5  ...  427  167.91     0    5  69  38
+2        Virat Kohli  RCB   657       15   15   3  ...  454  144.71     0    8  66  19
+3       Shubman Gill   GT   650       15   15   2  ...  417  155.87     0    6  62  24
+4     Mitchell Marsh  LSG   627       13   13   0  ...  383  163.70     1    6  56  37
+
+[5 rows x 14 columns]
+
+Columns:
+ ['Player Name', 'Team', 'Runs', 'Matches', 'Inn', 'No', 'HS', 'AVG', 'BF', 'SR', '100s', '50s', '4s', '6s']
+
+Top Run Scorers:
+       Player Name  Runs
+    Sai Sudharsan   759
+Surya Kumar Yadav   717
+      Virat Kohli   657
+     Shubman Gill   650
+   Mitchell Marsh   627
+     Shreyas Iyer   604
+ Yashasvi Jaiswal   559
+Prabhsimran Singh   549
+        K L Rahul   539
+      Jos Buttler   538
+
+Team-wise Total Runs:
+ Team
+PBKS    2996
+MI      2792
+GT      2763
+LSG     2593
+RCB     2539
+RR      2476
+SRH     2378
+DC      2376
+CSK     2299
+KKR     1883
+
+--- Key Insights ---
+1. Top run scorers, batting averages, fours, and sixes are shown in the charts.
+2. Team-wise total runs and matches versus runs are shown in the charts.
+
+Charts saved to: C:\Users\RAVI CHANDRA YADAV\Desktop\Projects\ipl data analysis\outputs
